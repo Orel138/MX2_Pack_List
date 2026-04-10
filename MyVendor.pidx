@@ -1,8 +1,8 @@
 <index xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="1.1.0" xsi:noNamespaceSchemaLocation="PackIndex.xsd">
   <vendor>MyVendor</vendor>
-  <url>https://github.com/Orel138/MX2_Pack_List</url>
+  <url>https://github.com/Orel138/MX2_Pack_List/tree/main</url>
   <timestamp>2026-03-13T10:00:54.3401904+00:00</timestamp>
   <pindex>
-    <pdsc url="https://github.com/Orel138/MW_Template_MX2_pack" vendor="MyVendor" name="MW_Template_MX2_pack" version="1.0.0" />
+    <pdsc url="https://github.com/Orel138/MW_Template_MX2_pack" vendor="MyVendor" name="my-middleware" version="1.0.0" />
   </pindex>
 </index>
